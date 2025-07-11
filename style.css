@@ -23,6 +23,7 @@ h1 {
 .asuka {
     width: 800px;
     height: 960px;
+    padding-right: 200px;
 }
 
 .asuka::after {
