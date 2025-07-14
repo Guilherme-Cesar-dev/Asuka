@@ -1,4 +1,4 @@
-vi esse vídeo no youtube:
+vi esse vídeo no youtube;
 
 [vídeoLink](https://youtu.be/ezwvbOHtw64?si=IEJE6Kld3I8ZU9bx)
 
