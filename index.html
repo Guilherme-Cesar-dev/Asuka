@@ -8,6 +8,23 @@
     <link rel="icon" type="image/x-icon" href="style.css">
 </head>
 <body>
+    <script>
+        function lucas(){
+            const p = document.getElementById('conf');
+            p.innerHTML = ""; // Limpa o conteúdo anterior
+
+            let i;
+            for(let i = 0; i < 890; i+=10){
+                p.innerHTML += (i+"px 170px #000,<br>");
+            };
+            console.log(i);
+        };
+    </script>
+
+    <p id="conf"></p>
+    <!--opcao pra otimizar a criacao de linhas
+        <button id="button" type="button" onclick="lucas()"><</button>
+    -->
     <div class="container">
         <h1>Asuka</h1>
         <div class="asuka"></div>
